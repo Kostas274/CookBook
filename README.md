@@ -1,1 +1,1 @@
-# CookBook
+# DRF_blog_example
